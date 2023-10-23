@@ -1,0 +1,4 @@
+﻿  test.cpp
+D:\си\bit array\bit array\Array.h(120,49): warning C4804: *=: небезопасное использование типа "bool" в операции
+D:\си\bit array\bit array\Array.h(131,49): warning C4804: +=: небезопасное использование типа "bool" в операции
+  bit array.vcxproj -> D:\си\bit array\x64\Debug\bit array.exe

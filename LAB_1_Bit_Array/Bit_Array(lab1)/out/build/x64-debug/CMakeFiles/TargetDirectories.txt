@@ -1,5 +1,0 @@
-D:/си/Bit_Array(lab1)/out/build/x64-debug/CMakeFiles/edit_cache.dir
-D:/си/Bit_Array(lab1)/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
-D:/си/Bit_Array(lab1)/out/build/x64-debug/Bit_Array(lab1)/CMakeFiles/CMakeTarget.dir
-D:/си/Bit_Array(lab1)/out/build/x64-debug/Bit_Array(lab1)/CMakeFiles/edit_cache.dir
-D:/си/Bit_Array(lab1)/out/build/x64-debug/Bit_Array(lab1)/CMakeFiles/rebuild_cache.dir
