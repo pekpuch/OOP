@@ -1,0 +1,3 @@
+mix 2 0 40
+mute 40 50
+reverse
