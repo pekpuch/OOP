@@ -1,2 +1,0 @@
-/usr/bin/ar qc libexample_google_tests.a CMakeFiles/example_google_tests.dir/src/BigArray.cpp.o CMakeFiles/example_google_tests.dir/src/main.cpp.o
-/usr/bin/ranlib libexample_google_tests.a

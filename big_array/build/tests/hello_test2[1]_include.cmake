@@ -1,5 +1,0 @@
-if(EXISTS "/mnt/c/Users/nikgl/OneDrive/Desktop/123/build/tests/hello_test2[1]_tests.cmake")
-  include("/mnt/c/Users/nikgl/OneDrive/Desktop/123/build/tests/hello_test2[1]_tests.cmake")
-else()
-  add_test(hello_test2_NOT_BUILT hello_test2_NOT_BUILT)
-endif()
