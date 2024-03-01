@@ -1,0 +1,2 @@
+MyClassTest.test_sozd 1 0.0491013
+---
